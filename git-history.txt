@@ -1,0 +1,180 @@
+    1  git --version
+    2  mkdir mycode
+    3  ls -l
+    4  cd mycode/
+    5  ls -l
+    6  git init
+    7  git status
+    8  git config --global user.name
+    9  git config --global user.name Hiteshpatel199
+   10  git config --global user.email htieshpatel@hotmail.co.uk
+   11  git config --list
+   12  ls -l
+   13  tocuh new.java
+   14  touch new.java
+   15  ls
+   16  ls -l
+   17  git status
+   18  git add new.java
+   19  git status
+   20  git commit -m "new-java created"
+   21  git status
+   22  git log
+   23  cd ..
+   24  git config --global user.name
+   25  git config --global user.name Hiteshpatel199
+   26  git config --global user.email hitieshpatel@hotmail.co.uk
+   27  git config --list
+   28  git config --global --list
+   29  ls -l
+   30  cd mycode
+   31  git commit 
+   32  ls -l
+   33  get status
+   34  git log
+   35  git commit -a -m "new.java change"
+   36  git ststua
+   37  git status
+   38  ls-l
+   39  mkdir new.java
+   40  ls -l
+   41  git add new.java
+   42  git commit -m "new-java created"
+   43  git log
+   44  ls -l
+   45  clear
+   46  exit
+   47  ls - l
+   48  ls -l
+   49  cd mycode
+   50  touch new1.java file.c new.xml
+   51  git status
+   52  git add.
+   53  git status
+   54  git add
+   55  git add.
+   56  git add
+   57  git add .
+   58  git status
+   59  vi edit
+   60  git status
+   61  git add .
+   62  git status
+   63  ls -l
+   64  vi file.c
+   65  ls -l
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m "first commit"
+   70  git log
+   71  git config --global user.name Hiteshpatel199
+   72  git config --global user.email hiteshpatel@hotmail.co.uk
+   73  git config --list
+   74  git log
+   75  git config --list
+   76  git log
+   77  git show 2240a5d5ea969a9af87b80566f51f16864cd9418
+   78  git diff 2240a5d5ea969a9af87b80566f51f16864cd9418 2240a5d5ea969a9af87b80566f51f16864cd9418
+   79  git diff 
+   80  git status
+   81  ls -l
+   82  tocuh old.java
+   83  touch old.java
+   84  git status
+   85  git add
+   86  git add .
+   87  git status
+   88  git restore --staged old.java
+   89  git status
+   90  git commit -m "first commit"
+   91  cd
+   92  ls -l
+   93  mycode
+   94  cd mycode
+   95  ls -l
+   96  git status
+   97  git add.
+   98  git add .
+   99  git status
+  100  git commit -m"new"
+  101  git status
+  102  touch .gitignore
+  103  ls -l
+  104  ls -al
+  105  vi .gitignore
+  106  git status
+  107  git add .
+  108  git commit -m"added gitignore"
+  109  cat .gitignore
+  110  touch htiesh.info
+  111  git status
+  112  touch hitesh.info
+  113  git status
+  114  ls -l
+  115  mkdir test
+  116  cd test/
+  117  ls -l
+  118  tocuh abc.java
+  119  touch new.java
+  120  ls-l
+  121  cd ..
+  122  ls -l
+  123  git status
+  124  remove htiesh.info
+  125  delete htiesh.info
+  126  rm htiesh.info
+  127  git status
+  128  ls -l
+  129  cd ..
+  130  mkdir newcode
+  131  cd newcode
+  132  cd ..
+  133  cd mycode
+  134  git log
+  135  git log --online
+  136  git log --oneline
+  137  git tag -a v1.1 - "version 1.1"
+  138  git log --oneline
+  139  git tag -a v1.1 - "version 1.2"
+  140  git log --oneline
+  141  git show
+  142  git log --oneline
+  143  ls -l
+  144  git remote -v
+  145  git remote add origin https://github.com/Hiteshpatel199/mycode.git
+  146  git remote -v
+  147  git push -u origin master
+  148  git log --oneline
+  149  cd ..
+  150  git status
+  151  ls
+  152  ls -l
+  153  rm mycode
+  154  rm -r mycode
+  155  ls -l
+  156  rm -r newcode
+  157  git --version
+  158  git clone https://github.com/Hiteshpatel199/mycode.git
+  159  ls -l
+  160  cd mycode
+  161  ls -l
+  162  git remote -v
+  163  get log --oneline
+  164  git log --oneline
+  165  git clone https://github.com/lerndevops/labs
+  166  ls -l
+  167  rm -r edit
+  168  ls -l
+  169  rm -r file.c
+  170  rm -r new.java
+  171  rm -r new.xml
+  172  ls -l
+  173  rm -r new1.java
+  174  rm -r old.java
+  175  ls -l
+  176  https://github.com/Hiteshpatel199/mycode.git
+  177  git remote add origin https://github.com/Hiteshpatel199/mycode.git
+  178  git push -u origin master
+  179  ls -l
+  180  history > git-history.txt
